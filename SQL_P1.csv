@@ -1,0 +1,8 @@
+"emp_id","emp_name","department","gender","age","rating_date","reviewer","performance_score","comments"
+101,"Alice Johnson","HR","Female",29,"2023-01-15","Manager A",5,"Excellent"
+102,"Bob Smith","Sales","Male",34,"2023-01-15","Manager B",4,"Good performer"
+103,"Charlie Lee","Tech","Male",27,"2023-02-10","Manager C",3,"Average output"
+104,"Daisy Patel","Tech","Female",31,"2023-03-05","Manager C",2,"Needs improvement"
+101,"Alice Johnson","HR","Female",29,"2023-06-15","Manager A",4,"Slightly dropped"
+102,"Bob Smith","Sales","Male",34,"2023-06-15","Manager B",3,"Neutral"
+105,"Evan Zhang","Finance","Male",40,"2023-04-20","Manager D",5,"Outstanding"
