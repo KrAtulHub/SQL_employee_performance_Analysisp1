@@ -2,6 +2,9 @@
 
 Welcome to the **Employee Performance Analysis** project! This project demonstrates a complete end-to-end workflow using **SQL** to manage, clean, and analyze employee performance review data. It’s designed to showcase your skills in database design, data cleaning, exploratory analysis, and deriving actionable business insights.
 
+# preview
+https://codesandbox.io/p/sandbox/github/KrAtulHub/SQL_employee_performance_Analysisp1
+
 ## 👨‍💼 Project Owner
 **Atul Kr Prasad**
 
